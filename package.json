@@ -1,0 +1,17 @@
+{
+  "name": "pacote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "lucas",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^12.2.4"
+  }
+}
